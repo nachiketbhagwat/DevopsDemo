@@ -1,3 +1,6 @@
 This is commit 1
+<<<<<<< HEAD
 This is commit 2
 This is commit 3
+=======
+>>>>>>> parent of 17e9cec... Added second commit
