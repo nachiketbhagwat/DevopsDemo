@@ -1,3 +1,3 @@
 class sample{
-
+    int x;
 };
