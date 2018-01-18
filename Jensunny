@@ -1,0 +1,12 @@
+node {
+    stage('Build') {
+    echo 'building...'
+    }
+    stage('Deploy') {
+    echo 'deploying...'
+    }
+    stage('Tests') {
+    echo 'testing...'
+    }
+    }
+
